@@ -1,6 +1,6 @@
 # istio.cheatsheet
 
-## Analyzation
+## Analyze
 Analyze the istio configuration for a given namespace
 ````
 istioctl analyze -n <namespace>
